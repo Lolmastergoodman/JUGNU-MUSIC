@@ -6,7 +6,7 @@ module.exports = {
   embed: {
     color: process.env.color || "#220f80",
     wrongcolor: process.env.wrongcolor || "#8a0808",
-    footertext: "Coded By Kabir Singh | Tech Boy Development",
+    footertext: "Coded By Kureha Shinogi | :) ",
     footericon: " ",
   },
   emoji: {
